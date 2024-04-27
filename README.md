@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raghad
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning software enginering and visual programming 
+- 👀 I’m interested in AI and networks 
+- 🌱 I’m currently learning machine learning
+   
 
 
 
